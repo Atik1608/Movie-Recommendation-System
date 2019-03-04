@@ -1,6 +1,6 @@
 # Movie Recommendation System using Spark with PySpark API
 
-### I highly suggest to open this link for the complete view of the project with all the figures (As GitHub can't render Plotly figures): <a href="https://nbviewer.jupyter.org/github/Atik1608/Movie-Recommendation-System/blob/master/Movie%20Recommendation%20System.ipynb"> Clink on this Link!</a>
+### I highly suggest to open this link for the complete view of the project with all the figures (As GitHub can't render Plotly figures): <a href="https://nbviewer.jupyter.org/github/Atik1608/Movie-Recommendation-System/blob/master/Movie%20Recommendation%20System.ipynb"> Click on this Link!</a>
 
 ## Overview
 
